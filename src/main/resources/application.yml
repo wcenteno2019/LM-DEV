@@ -1,0 +1,7 @@
+server:
+  port: 90
+management:
+  endpoints.web.base-path: /
+spring:
+  profiles:
+    active: local
